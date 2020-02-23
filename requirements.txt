@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+botogram2
+jellyfish
